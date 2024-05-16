@@ -1,0 +1,10 @@
+making all the steps automate from starting to deployment.
+-> unit testing
+-> qa
+-> conternization.
+-> build generation.
+-> static code analysis.
+-> reports.
+-> deploying.
+-> monitoring.
+->rollback.

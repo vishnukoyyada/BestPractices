@@ -1,0 +1,2 @@
+->For infrastructure use  terraform (inital setup )
+->And for configure use ansible(Scaling up and scaling down )

@@ -1,0 +1,25 @@
+if problems has to find subset  with some condition [array,list,string]    use  slidingwindow.
+
+
+-> All subsets/subsequences repetation yes or no. use subset pattern. recursion.
+
+-> binary search for searching in array when the array is sorted.[ remember lower bound]
+
+-> top k elements.
+
+
+-> binary Dfs.
+
+-> topological sort usefull for directed Acyclic graph
+
+-> bfs.
+
+-> two pointer(sorted array)
+
+
+-> mostly solve linked list problems using  cycles[fast and slow pointer method].
+
+-> to find unique element  bit manipulation.(xor)
+
+->
+

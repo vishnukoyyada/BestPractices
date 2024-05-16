@@ -1,0 +1,32 @@
+To find the gcd of a number we can use this approach for better complexity.
+
+gcd(a,b)  = gcd(a-b,b) 
+
+important that a is greater where a>b;
+
+
+
+
+in mathematical terms = gcd(a,b) = gcd(a%b,b);
+
+
+and then do the process repeated 
+if you find one of them is 0 then other number is gcd.
+
+
+int a = 10;
+int b = 5;
+
+while (a != 0 && b != 0) {
+    if (a != 0) {
+        a = a % b;
+    } else {
+        b = b % a; 
+    }
+}
+
+if (a == 0) {
+    print(b);
+} else {
+    print(a);
+}
