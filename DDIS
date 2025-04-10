@@ -1,0 +1,6 @@
+/database
+  ├── /migrations    # For incremental changes (if using migration tools)
+  ├── schema.sql     # Complete database structure
+  ├── indexes.sql    # All indexes (can be combined with schema)
+  ├── seeds.sql      # Sample/test data
+  └── procedures.sql # Stored procedures/functions
